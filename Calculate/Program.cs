@@ -4,6 +4,7 @@ double total;  //переменная, хранящая в себе резуль
 char oper;     //переменная для хранения в себе оператора
                //комментарии не переписываем
 
+
 Console.WriteLine("Введите первое число:");
 a = Convert.ToDouble(Console.ReadLine());
 
